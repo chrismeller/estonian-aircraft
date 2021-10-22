@@ -3,6 +3,7 @@ import * as xpath from 'https://cdn.skypack.dev/xpath?dts';
 
 interface IResult {
     lastUpdated: Date;
+    total: number;
     aircraft: IAircraft[];
 }
 
@@ -68,6 +69,7 @@ interface IAircraft {
 
     const result: IResult = {
         lastUpdated: new Date(updatedDate[1][0]),
+        total: aircraft.length,
         aircraft: aircraft,
     };
 

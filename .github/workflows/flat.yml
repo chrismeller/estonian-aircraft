@@ -20,12 +20,15 @@ jobs:
       - name: Check out repo
         uses: actions/checkout@v2
 
-      - name: Fetch data
-        uses: githubocto/flat@v3
+      - name: Process
+        run: deno run --config ./tsconfig.sjon --allow-write --allow-net ./fetch.ts
+
+      - name: Commit & Push
+        uses: actions-js/push@master
         with:
-          http_url: https://transpordiamet.ee/ohusoidukite-register
-          downloaded_filename: data.html
-          axios_config: axios.json
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+          force: true
   
   parse:
     runs-on: ubuntu-latest

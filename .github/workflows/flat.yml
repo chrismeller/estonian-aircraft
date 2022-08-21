@@ -23,25 +23,6 @@ jobs:
       - name: Process
         run: deno run --config ./tsconfig.json --allow-write --allow-net ./fetch.ts
 
-      - name: Commit & Push
-        uses: actions-js/push@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
-          force: true
-  
-  parse:
-    runs-on: ubuntu-latest
-    needs: scheduled
-    steps:
-      - name: Setup deno
-        uses: denoland/setup-deno@main
-        with:
-          deno-version: vx.x.x
-
-      - name: Check out repo
-        uses: actions/checkout@v2
-
       - name: Process
         run: deno run --config ./tsconfig.json --allow-read --allow-write ./parse.ts
 

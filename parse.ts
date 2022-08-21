@@ -1,5 +1,6 @@
 import { DOMParser } from 'https://cdn.skypack.dev/@xmldom/xmldom?dts';
 import * as xpath from 'https://cdn.skypack.dev/xpath?dts';
+import { parse } from 'https://cdn.skypack.dev/date-fns';
 
 interface IResult {
     lastUpdated: Date;
@@ -67,8 +68,10 @@ interface IAircraft {
 
     console.log('number of aircraft', aircraft.length);
 
+    const updatedAt = parse(updatedDate[1][0], 'dd.MM.yyyy', new Date());
+
     const result: IResult = {
-        lastUpdated: new Date(updatedDate[1][0]),
+        lastUpdated: updatedAt,
         total: aircraft.length,
         aircraft: aircraft,
     };

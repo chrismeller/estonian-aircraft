@@ -25,6 +25,7 @@ jobs:
         with:
           http_url: https://transpordiamet.ee/ohusoidukite-register
           downloaded_filename: data.html
+          axios_config: axios.json
   
   parse:
     runs-on: ubuntu-latest

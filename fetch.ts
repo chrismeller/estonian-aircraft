@@ -9,5 +9,9 @@
     const body = await response.arrayBuffer();
     const enc = new TextDecoder('utf-8');
     const data = enc.decode(body);
-    await Deno.writeTextFile('data.html', data);
+
+    console.log('body', data);
+
+    console.log('Writing data.html...');
+    await Deno.writeTextFile('./data.html', data);
 })();

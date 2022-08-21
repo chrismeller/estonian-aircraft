@@ -23,7 +23,7 @@ jobs:
       - name: Fetch data
         uses: githubocto/flat@v3
         with:
-          http_url: https://transpordiamet.ee/soiduk-laev-lennuk/lennundustehnika/ohusoidukite-register
+          http_url: https://transpordiamet.ee/ohusoidukite-register
           downloaded_filename: data.html
   
   parse:

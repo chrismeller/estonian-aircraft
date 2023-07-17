@@ -1,4 +1,11 @@
 {
   "version": "2",
-  "remote": {}
+  "remote": {
+    "https://cdn.skypack.dev/-/@xmldom/xmldom@v0.8.9-Q3wQxxNHLHLtCsepj1sr/dist=es2019,mode=imports/optimized/@xmldom/xmldom.js": "857af61706e3c9ecd704f3171baf099e480cd83efd9ff6f3db520aa93c2bb689",
+    "https://cdn.skypack.dev/-/date-fns@v2.30.0-E7SpvwCL3wRUK0Q9mmOa/dist=es2019,mode=imports/optimized/date-fns.js": "9e81dde88a23d207bf9c40c8350525c9115eeede74000c9f94fcd4a65ce64865",
+    "https://cdn.skypack.dev/-/xpath@v0.0.33-BpC5ud1N138Uw7iz8sW2/dist=es2019,mode=imports/optimized/xpath.js": "567d3ba5133a0eb42534fd9f939f0dc2c16399877eefbd30180a6d0647d56546",
+    "https://cdn.skypack.dev/@xmldom/xmldom@0.8.9?dts": "424f4ba1fbe334370a9d56ece560657b1df0ff1e85096e73d3a905036688d8a8",
+    "https://cdn.skypack.dev/date-fns@2.30.0?dts": "9cf78eb65f86f7b699e241a1e0ff94f3878d693e517e21ddc7fe727e3b479058",
+    "https://cdn.skypack.dev/xpath@0.0.33?dts": "425567ac666c376f01b74c5c8dbb3ccf545fc7a83df4f6d051624cf6c2389bd3"
+  }
 }

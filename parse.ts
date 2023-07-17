@@ -1,6 +1,6 @@
-import { DOMParser } from 'https://cdn.skypack.dev/@xmldom/xmldom?dts';
-import * as xpath from 'https://cdn.skypack.dev/xpath?dts';
-import { parse } from 'https://cdn.skypack.dev/date-fns';
+import { DOMParser } from 'https://cdn.skypack.dev/@xmldom/xmldom@0.8.9?dts';
+import * as xpath from 'https://cdn.skypack.dev/xpath@0.0.33?dts';
+import { parse } from 'https://cdn.skypack.dev/date-fns@2.30.0?dts';
 
 interface IResult {
     lastUpdated: Date;

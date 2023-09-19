@@ -1,5 +1,5 @@
 {
-  "lastUpdated": null,
+  "lastUpdated": "2023-09-12T00:00:00.000Z",
   "total": 222,
   "aircraft": [
     {
@@ -8,7 +8,7 @@
       "serialNumber": "4347",
       "owner": "Wilmington Trust SP Services (Dublin) Limited",
       "operator": "Nordic Aviation Group AS",
-      "lastSeen": "2023-09-18T00:15:30.530Z"
+      "lastSeen": "2023-09-19T00:15:25.627Z"
     },
     {
       "registration": "ES - MBA",
@@ -16,7 +16,7 @@
       "serialNumber": "6849",
       "owner": "Bank of Utah, not in its individual capacity but solely as owner trustee",
       "operator": "Nordic Aviation Group AS",
-      "lastSeen": "2023-09-18T00:15:30.532Z"
+      "lastSeen": "2023-09-19T00:15:25.628Z"
     },
     {
       "registration": "ES - MBB",
@@ -24,7 +24,7 @@
       "serialNumber": "6914",
       "owner": "Bank of Utah, not in its individual capacity but solely as owner trustee",
       "operator": "Marabu Airlines OÜ",
-      "lastSeen": "2023-09-18T00:15:30.533Z"
+      "lastSeen": "2023-09-19T00:15:25.629Z"
     },
     {
       "registration": "ES - MBC",
@@ -32,7 +32,7 @@
       "serialNumber": "6967",
       "owner": "Bank of Utah, not in its individual capacity but solely as owner trustee",
       "operator": "Nordic Aviation Group AS",
-      "lastSeen": "2023-09-18T00:15:30.535Z"
+      "lastSeen": "2023-09-19T00:15:25.630Z"
     },
     {
       "registration": "ES - MBU",
@@ -40,15 +40,15 @@
       "serialNumber": "6799",
       "owner": "Bank of Utah, not in its individual capacity but solely as owner trustee",
       "operator": "Marabu Airlines OÜ",
-      "lastSeen": "2023-09-18T00:15:30.536Z"
+      "lastSeen": "2023-09-19T00:15:25.631Z"
     },
     {
       "registration": "ES - SAM",
       "type": "Airbus A320",
       "serialNumber": "1896",
       "owner": "Global Principal Finance Company LLC",
-      "operator": "SmartLynx Airlines Estonia OÜ&nbsp;",
-      "lastSeen": "2023-09-18T00:15:30.537Z"
+      "operator": "SmartLynx Airlines Estonia OÜ",
+      "lastSeen": "2023-09-19T00:15:25.633Z"
     },
     {
       "registration": "ES - SAA",
@@ -56,7 +56,7 @@
       "serialNumber": "3631",
       "owner": "Celestial ECA Trading 1 Limited",
       "operator": "SmartLynx Airlines Estonia OÜ",
-      "lastSeen": "2023-09-18T00:15:30.538Z"
+      "lastSeen": "2023-09-19T00:15:25.634Z"
     },
     {
       "registration": "ES - SAB",
@@ -64,7 +64,7 @@
       "serialNumber": "3644",
       "owner": "Celestial ECA Trading 1 Limited",
       "operator": "SmartLynx Airlines Estonia OÜ",
-      "lastSeen": "2023-09-18T00:15:30.539Z"
+      "lastSeen": "2023-09-19T00:15:25.635Z"
     },
     {
       "registration": "ES - SAG",
@@ -72,7 +72,7 @@
       "serialNumber": "5407",
       "owner": "Bank of America, N.A.",
       "operator": "SmartLynx Airlines Estonia OÜ",
-      "lastSeen": "2023-09-18T00:15:30.541Z"
+      "lastSeen": "2023-09-19T00:15:25.636Z"
     },
     {
       "registration": "ES - SAD",
@@ -80,7 +80,7 @@
       "serialNumber": "5931",
       "owner": "Avia Quest Limited",
       "operator": "SmartLynx Airlines Estonia OÜ",
-      "lastSeen": "2023-09-18T00:15:30.542Z"
+      "lastSeen": "2023-09-19T00:15:25.637Z"
     },
     {
       "registration": "ES - SAF",
@@ -88,7 +88,7 @@
       "serialNumber": "5348",
       "owner": "GAT Aircraft and Engine Leasing Limited",
       "operator": "SmartLynx Airlines Estonia OÜ",
-      "lastSeen": "2023-09-18T00:15:30.543Z"
+      "lastSeen": "2023-09-19T00:15:25.638Z"
     },
     {
       "registration": "ES - SAZ",
@@ -96,7 +96,7 @@
       "serialNumber": "1725",
       "owner": "Celestial Aviation Trading 23 Limited",
       "operator": "SmartLynx Airlines Estonia OÜ",
-      "lastSeen": "2023-09-18T00:15:30.544Z"
+      "lastSeen": "2023-09-19T00:15:25.639Z"
     },
     {
       "registration": "ES - SAW",
@@ -104,7 +104,7 @@
       "serialNumber": "1663",
       "owner": "ACS Aero 2 Omega Limited",
       "operator": "SmartLynx Airlines Estonia OÜ",
-      "lastSeen": "2023-09-18T00:15:30.545Z"
+      "lastSeen": "2023-09-19T00:15:25.640Z"
     },
     {
       "registration": "ES - SAX",
@@ -112,7 +112,7 @@
       "serialNumber": "3954",
       "owner": "Start Ireland Leasing 1 Limited",
       "operator": "SmartLynx Airlines Estonia OÜ",
-      "lastSeen": "2023-09-18T00:15:30.546Z"
+      "lastSeen": "2023-09-19T00:15:25.641Z"
     },
     {
       "registration": "ES - SAY",
@@ -120,7 +120,7 @@
       "serialNumber": "2689",
       "owner": "Bank of America, N.A.",
       "operator": "SmartLynx Airlines Estonia OÜ",
-      "lastSeen": "2023-09-18T00:15:30.547Z"
+      "lastSeen": "2023-09-19T00:15:25.642Z"
     },
     {
       "registration": "ES - ACB",
@@ -128,7 +128,7 @@
       "serialNumber": "15261",
       "owner": "Transpordi Varahaldus OÜ",
       "operator": "Regional Jet OÜ",
-      "lastSeen": "2023-09-18T00:15:30.549Z"
+      "lastSeen": "2023-09-19T00:15:25.643Z"
     },
     {
       "registration": "ES - ACC",
@@ -136,7 +136,7 @@
       "serialNumber": "15262",
       "owner": "Transpordi Varahaldus OÜ",
       "operator": "Regional Jet OÜ",
-      "lastSeen": "2023-09-18T00:15:30.550Z"
+      "lastSeen": "2023-09-19T00:15:25.644Z"
     },
     {
       "registration": "ES - ACD",
@@ -144,7 +144,7 @@
       "serialNumber": "15276",
       "owner": "Transpordi Varahaldus OÜ",
       "operator": "Regional Jet OÜ",
-      "lastSeen": "2023-09-18T00:15:30.551Z"
+      "lastSeen": "2023-09-19T00:15:25.645Z"
     },
     {
       "registration": "ES - ACG",
@@ -152,15 +152,15 @@
       "serialNumber": "15277",
       "owner": "Transpordi Varahaldus OÜ",
       "operator": "Regional Jet OÜ",
-      "lastSeen": "2023-09-18T00:15:30.553Z"
+      "lastSeen": "2023-09-19T00:15:25.646Z"
     },
     {
       "registration": "ES - ACJ",
       "type": "Bombardier CL-600-2D24",
-      "serialNumber": "&nbsp;15250",
+      "serialNumber": "15250",
       "owner": "Transpordi Varahaldus OÜ",
       "operator": "Regional Jet OÜ",
-      "lastSeen": "2023-09-18T00:15:30.554Z"
+      "lastSeen": "2023-09-19T00:15:25.647Z"
     },
     {
       "registration": "ES - ACK",
@@ -168,7 +168,7 @@
       "serialNumber": "15211",
       "owner": "Transpordi Varahaldus OÜ",
       "operator": "Regional Jet OÜ",
-      "lastSeen": "2023-09-18T00:15:30.555Z"
+      "lastSeen": "2023-09-19T00:15:25.648Z"
     },
     {
       "registration": "ES - ACM",
@@ -176,7 +176,7 @@
       "serialNumber": "15206",
       "owner": "Transpordi Varahaldus OÜ",
       "operator": "Regional Jet OÜ",
-      "lastSeen": "2023-09-18T00:15:30.556Z"
+      "lastSeen": "2023-09-19T00:15:25.650Z"
     },
     {
       "registration": "ES - ACP",
@@ -184,7 +184,7 @@
       "serialNumber": "15242",
       "owner": "Regional Jet OÜ",
       "operator": "Regional Jet OÜ",
-      "lastSeen": "2023-09-18T00:15:30.556Z"
+      "lastSeen": "2023-09-19T00:15:25.651Z"
     },
     {
       "registration": "ES - ACN",
@@ -192,15 +192,15 @@
       "serialNumber": "15237",
       "owner": "Regional Jet OÜ",
       "operator": "Regional Jet OÜ",
-      "lastSeen": "2023-09-18T00:15:30.557Z"
+      "lastSeen": "2023-09-19T00:15:25.652Z"
     },
     {
-      "registration": "ES -&nbsp;ATC",
+      "registration": "ES - ATC",
       "type": "ATR 72-212A",
       "serialNumber": "1164",
       "owner": "NAC Aviation 8 Limited",
       "operator": "Regional Jet OÜ",
-      "lastSeen": "2023-09-18T00:15:30.558Z"
+      "lastSeen": "2023-09-19T00:15:25.653Z"
     },
     {
       "registration": "ES - ATD",
@@ -208,15 +208,15 @@
       "serialNumber": "1165",
       "owner": "NAC Aviation 2 A/S",
       "operator": "Regional Jet OÜ",
-      "lastSeen": "2023-09-18T00:15:30.563Z"
+      "lastSeen": "2023-09-19T00:15:25.654Z"
     },
     {
       "registration": "ES - ATE",
       "type": "ATR 72-212A",
       "serialNumber": "1120",
-      "owner": "NAC Aviation&nbsp;3 A/S",
+      "owner": "NAC Aviation 3 A/S",
       "operator": "Regional Jet OÜ",
-      "lastSeen": "2023-09-18T00:15:30.564Z"
+      "lastSeen": "2023-09-19T00:15:25.655Z"
     },
     {
       "registration": "ES - ATH",
@@ -224,7 +224,7 @@
       "serialNumber": "1064",
       "owner": "Celestial Aviation Trading 27 Limited",
       "operator": "Regional Jet OÜ",
-      "lastSeen": "2023-09-18T00:15:30.565Z"
+      "lastSeen": "2023-09-19T00:15:25.656Z"
     },
     {
       "registration": "ES - ATI",
@@ -232,7 +232,7 @@
       "serialNumber": "1075",
       "owner": "Celestial Aviation Trading 71 Limited",
       "operator": "Regional Jet OÜ",
-      "lastSeen": "2023-09-18T00:15:30.566Z"
+      "lastSeen": "2023-09-19T00:15:25.657Z"
     },
     {
       "registration": "ES - ATJ",
@@ -240,7 +240,7 @@
       "serialNumber": "1056",
       "owner": "Celestial Aviation Trading 27 Limited",
       "operator": "Regional Jet OÜ",
-      "lastSeen": "2023-09-18T00:15:30.567Z"
+      "lastSeen": "2023-09-19T00:15:25.657Z"
     },
     {
       "registration": "ES - ATG",
@@ -248,7 +248,7 @@
       "serialNumber": "1121",
       "owner": "NAC Aviation 2 A/S",
       "operator": "Regional Jet OÜ",
-      "lastSeen": "2023-09-18T00:15:30.568Z"
+      "lastSeen": "2023-09-19T00:15:25.658Z"
     },
     {
       "registration": "ES - ATK",
@@ -256,7 +256,7 @@
       "serialNumber": "1316",
       "owner": "NAC Aviation 19 Limited",
       "operator": "Regional Jet OÜ",
-      "lastSeen": "2023-09-18T00:15:30.569Z"
+      "lastSeen": "2023-09-19T00:15:25.659Z"
     },
     {
       "registration": "ES - ATL",
@@ -264,7 +264,7 @@
       "serialNumber": "1323",
       "owner": "NAC Aviation 19 Limited",
       "operator": "Regional Jet OÜ",
-      "lastSeen": "2023-09-18T00:15:30.570Z"
+      "lastSeen": "2023-09-19T00:15:25.660Z"
     },
     {
       "registration": "ES - LSA",
@@ -272,7 +272,7 @@
       "serialNumber": "055",
       "owner": "Airest AS",
       "operator": "Airest AS",
-      "lastSeen": "2023-09-18T00:15:30.571Z"
+      "lastSeen": "2023-09-19T00:15:25.661Z"
     },
     {
       "registration": "ES - LSB",
@@ -280,7 +280,7 @@
       "serialNumber": "045",
       "owner": "AS Skycap Investments AS",
       "operator": "Skystream Airlines AS",
-      "lastSeen": "2023-09-18T00:15:30.572Z"
+      "lastSeen": "2023-09-19T00:15:25.662Z"
     },
     {
       "registration": "ES - LSC",
@@ -288,7 +288,7 @@
       "serialNumber": "037",
       "owner": "Airest AS",
       "operator": "Airest AS",
-      "lastSeen": "2023-09-18T00:15:30.573Z"
+      "lastSeen": "2023-09-19T00:15:25.663Z"
     },
     {
       "registration": "ES - LSF",
@@ -296,7 +296,7 @@
       "serialNumber": "144",
       "owner": "Skycap Investments AS",
       "operator": "Skystream Airlines AS",
-      "lastSeen": "2023-09-18T00:15:30.574Z"
+      "lastSeen": "2023-09-19T00:15:25.663Z"
     },
     {
       "registration": "ES - LSG",
@@ -304,7 +304,7 @@
       "serialNumber": "007",
       "owner": "Airest AS",
       "operator": "Airest AS",
-      "lastSeen": "2023-09-18T00:15:30.575Z"
+      "lastSeen": "2023-09-19T00:15:25.664Z"
     },
     {
       "registration": "ES - LSH",
@@ -312,7 +312,7 @@
       "serialNumber": "011",
       "owner": "Airest AS",
       "operator": "Airest AS",
-      "lastSeen": "2023-09-18T00:15:30.576Z"
+      "lastSeen": "2023-09-19T00:15:25.665Z"
     },
     {
       "registration": "ES - LSI",
@@ -320,7 +320,7 @@
       "serialNumber": "064",
       "owner": "Airest AS",
       "operator": "Airest AS",
-      "lastSeen": "2023-09-18T00:15:30.577Z"
+      "lastSeen": "2023-09-19T00:15:25.666Z"
     },
     {
       "registration": "ES - NSB",
@@ -328,7 +328,7 @@
       "serialNumber": "112",
       "owner": "Alandia Air Ab",
       "operator": "NyxAir OÜ",
-      "lastSeen": "2023-09-18T00:15:30.578Z"
+      "lastSeen": "2023-09-19T00:15:25.667Z"
     },
     {
       "registration": "ES - NSM",
@@ -336,7 +336,7 @@
       "serialNumber": "113",
       "owner": "JAH3340A-113 LLC",
       "operator": "NyxAir OÜ",
-      "lastSeen": "2023-09-18T00:15:30.579Z"
+      "lastSeen": "2023-09-19T00:15:25.668Z"
     },
     {
       "registration": "ES - NSN",
@@ -344,7 +344,7 @@
       "serialNumber": "082",
       "owner": "JAH3340A-82 LLC",
       "operator": "NyxAir OÜ",
-      "lastSeen": "2023-09-18T00:15:30.579Z"
+      "lastSeen": "2023-09-19T00:15:25.668Z"
     },
     {
       "registration": "ES - NSC",
@@ -352,7 +352,7 @@
       "serialNumber": "248",
       "owner": "Alandia Air Ab",
       "operator": "NyxAir OÜ",
-      "lastSeen": "2023-09-18T00:15:30.580Z"
+      "lastSeen": "2023-09-19T00:15:25.669Z"
     },
     {
       "registration": "ES - NSE",
@@ -360,7 +360,7 @@
       "serialNumber": "013",
       "owner": "JAH32000-013 LLC",
       "operator": "NyxAir OÜ",
-      "lastSeen": "2023-09-18T00:15:30.581Z"
+      "lastSeen": "2023-09-19T00:15:25.670Z"
     },
     {
       "registration": "ES - NSF",
@@ -368,7 +368,7 @@
       "serialNumber": "039",
       "owner": "JAH2G-LGNT Ltd",
       "operator": "NyxAir OÜ",
-      "lastSeen": "2023-09-18T00:15:30.582Z"
+      "lastSeen": "2023-09-19T00:15:25.671Z"
     },
     {
       "registration": "ES - NSH",
@@ -376,7 +376,7 @@
       "serialNumber": "041",
       "owner": "JAH2G-LGNS Ltd",
       "operator": "NyxAir OÜ",
-      "lastSeen": "2023-09-18T00:15:30.582Z"
+      "lastSeen": "2023-09-19T00:15:25.672Z"
     },
     {
       "registration": "ES - NSI",
@@ -384,15 +384,15 @@
       "serialNumber": "043",
       "owner": "JAH32000-43 LLC",
       "operator": "NyxAir OÜ",
-      "lastSeen": "2023-09-18T00:15:30.583Z"
+      "lastSeen": "2023-09-19T00:15:25.673Z"
     },
     {
-      "registration": "ES&nbsp; - NSK",
-      "type": "SAAB&nbsp;340B",
+      "registration": "ES  - NSK",
+      "type": "SAAB 340B",
       "serialNumber": "169",
       "owner": "JAH3340B-169 LLC",
       "operator": "Nyxair OÜ",
-      "lastSeen": "2023-09-18T00:15:30.584Z"
+      "lastSeen": "2023-09-19T00:15:25.674Z"
     },
     {
       "registration": "ES - NSL",
@@ -400,15 +400,15 @@
       "serialNumber": "162",
       "owner": "Erik Thun AB",
       "operator": "Nyxair OÜ",
-      "lastSeen": "2023-09-18T00:15:30.584Z"
+      "lastSeen": "2023-09-19T00:15:25.674Z"
     },
     {
-      "registration": "ES&nbsp;- NTA",
+      "registration": "ES - NTA",
       "type": "ATR 42-500",
       "serialNumber": "655",
       "owner": "EPL Finance Two Oy",
       "operator": "Nyxair OÜ",
-      "lastSeen": "2023-09-18T00:15:30.585Z"
+      "lastSeen": "2023-09-19T00:15:25.675Z"
     },
     {
       "registration": "ES - NTB",
@@ -416,7 +416,7 @@
       "serialNumber": "651",
       "owner": "EPL Finance Oy",
       "operator": "Nyxair OÜ",
-      "lastSeen": "2023-09-18T00:15:30.586Z"
+      "lastSeen": "2023-09-19T00:15:25.676Z"
     },
     {
       "registration": "ES - NTC",
@@ -424,7 +424,7 @@
       "serialNumber": "541",
       "owner": "NK Aviation Limited",
       "operator": "Nyxair OÜ",
-      "lastSeen": "2023-09-18T00:15:30.587Z"
+      "lastSeen": "2023-09-19T00:15:25.677Z"
     },
     {
       "registration": "ES - PJA",
@@ -432,7 +432,7 @@
       "serialNumber": "749",
       "owner": "Airplane Holding OÜ",
       "operator": "JSC Aviation Company \"Transaviabaltika\"",
-      "lastSeen": "2023-09-18T00:15:30.587Z"
+      "lastSeen": "2023-09-19T00:15:25.678Z"
     },
     {
       "registration": "ES - PJG",
@@ -440,7 +440,7 @@
       "serialNumber": "701",
       "owner": "Landmaster OÜ",
       "operator": "Avies AS",
-      "lastSeen": "2023-09-18T00:15:30.588Z"
+      "lastSeen": "2023-09-19T00:15:25.679Z"
     },
     {
       "registration": "ES - PJR",
@@ -448,7 +448,7 @@
       "serialNumber": "949",
       "owner": "GreenJet AS",
       "operator": "JSC Aviation Company \"Transaviabaltika\"",
-      "lastSeen": "2023-09-18T00:15:30.589Z"
+      "lastSeen": "2023-09-19T00:15:25.679Z"
     },
     {
       "registration": "ES - PVH",
@@ -456,15 +456,15 @@
       "serialNumber": "162",
       "owner": "United Air OÜ",
       "operator": "Panaviatic AS",
-      "lastSeen": "2023-09-18T00:15:30.590Z"
+      "lastSeen": "2023-09-19T00:15:25.680Z"
     },
     {
       "registration": "ES - PVP",
       "type": "Learjet 60",
       "serialNumber": "302",
-      "owner": "&nbsp;BJet OÜ",
+      "owner": "BJet OÜ",
       "operator": "Panaviatic AS",
-      "lastSeen": "2023-09-18T00:15:30.590Z"
+      "lastSeen": "2023-09-19T00:15:25.683Z"
     },
     {
       "registration": "ES - CMK",
@@ -472,7 +472,7 @@
       "serialNumber": "RK-209",
       "owner": "Nextant400 OÜ",
       "operator": "Diamond Sky OÜ",
-      "lastSeen": "2023-09-18T00:15:30.591Z"
+      "lastSeen": "2023-09-19T00:15:25.684Z"
     },
     {
       "registration": "ES - KLT",
@@ -480,7 +480,7 @@
       "serialNumber": "1066",
       "owner": "LHV Pank AS",
       "operator": "Diamond Sky OÜ",
-      "lastSeen": "2023-09-18T00:15:30.592Z"
+      "lastSeen": "2023-09-19T00:15:25.684Z"
     },
     {
       "registration": "ES - SKI",
@@ -488,7 +488,7 @@
       "serialNumber": "2219",
       "owner": "Skinest Investeeringute OÜ",
       "operator": "Diamond Sky OÜ",
-      "lastSeen": "2023-09-18T00:15:30.593Z"
+      "lastSeen": "2023-09-19T00:15:25.685Z"
     },
     {
       "registration": "ES - SAS",
@@ -496,7 +496,7 @@
       "serialNumber": "2069",
       "owner": "Religo Capital Ltd",
       "operator": "Diamond Sky OÜ",
-      "lastSeen": "2023-09-18T00:15:30.593Z"
+      "lastSeen": "2023-09-19T00:15:25.686Z"
     },
     {
       "registration": "ES - VAR",
@@ -504,7 +504,7 @@
       "serialNumber": "4698180",
       "owner": "CloudSurfer OÜ",
       "operator": "Diamond Sky OÜ",
-      "lastSeen": "2023-09-18T00:15:30.594Z"
+      "lastSeen": "2023-09-19T00:15:25.687Z"
     },
     {
       "registration": "ES - PCG",
@@ -512,7 +512,7 @@
       "serialNumber": "950",
       "owner": "LHV Pank AS",
       "operator": "Eesti Langevarjuklubi MTÜ",
-      "lastSeen": "2023-09-18T00:15:30.595Z"
+      "lastSeen": "2023-09-19T00:15:25.687Z"
     },
     {
       "registration": "ES - SLS",
@@ -520,7 +520,7 @@
       "serialNumber": "264",
       "owner": "Fort Aero Asia Limited",
       "operator": "Fort Aero AS",
-      "lastSeen": "2023-09-18T00:15:30.595Z"
+      "lastSeen": "2023-09-19T00:15:25.688Z"
     },
     {
       "registration": "ES - PKY",
@@ -528,7 +528,7 @@
       "serialNumber": "FL-1037",
       "owner": "Siseministeerium",
       "operator": "Politsei- ja Piirivalveamet",
-      "lastSeen": "2023-09-18T00:15:30.596Z"
+      "lastSeen": "2023-09-19T00:15:25.689Z"
     },
     {
       "registration": "ES - TAC",
@@ -536,7 +536,7 @@
       "serialNumber": "17830694",
       "owner": "Ridali Lennuklubi",
       "operator": "Ridali Lennuklubi",
-      "lastSeen": "2023-09-18T00:15:30.597Z"
+      "lastSeen": "2023-09-19T00:15:25.689Z"
     },
     {
       "registration": "ES - TAD",
@@ -544,7 +544,7 @@
       "serialNumber": "128433",
       "owner": "Ridali Lennuklubi",
       "operator": "Ridali Lennuklubi",
-      "lastSeen": "2023-09-18T00:15:30.598Z"
+      "lastSeen": "2023-09-19T00:15:25.690Z"
     },
     {
       "registration": "ES - TAE",
@@ -552,7 +552,7 @@
       "serialNumber": "18840779",
       "owner": "Esimene Aeronautikaklubi",
       "operator": "Esimene Aeronautikaklubi",
-      "lastSeen": "2023-09-18T00:15:30.599Z"
+      "lastSeen": "2023-09-19T00:15:25.692Z"
     },
     {
       "registration": "ES -TWG",
@@ -560,7 +560,7 @@
       "serialNumber": "18840781",
       "owner": "Tallinna Aeroklubi",
       "operator": "Tallinna Aeroklubi",
-      "lastSeen": "2023-09-18T00:15:30.600Z"
+      "lastSeen": "2023-09-19T00:15:25.694Z"
     },
     {
       "registration": "ES - RAC",
@@ -568,7 +568,7 @@
       "serialNumber": "128435",
       "owner": "Ridali Lennuklubi",
       "operator": "Ridali Lennuklubi",
-      "lastSeen": "2023-09-18T00:15:30.600Z"
+      "lastSeen": "2023-09-19T00:15:25.695Z"
     },
     {
       "registration": "ES - RAF",
@@ -576,7 +576,7 @@
       "serialNumber": "17820668",
       "owner": "Ridali Lennuklubi",
       "operator": "Ridali Lennuklubi",
-      "lastSeen": "2023-09-18T00:15:30.601Z"
+      "lastSeen": "2023-09-19T00:15:25.695Z"
     },
     {
       "registration": "ES - RWE",
@@ -584,7 +584,7 @@
       "serialNumber": "17820681",
       "owner": "Narva lennukeskus",
       "operator": "Narva lennukeskus",
-      "lastSeen": "2023-09-18T00:15:30.602Z"
+      "lastSeen": "2023-09-19T00:15:25.696Z"
     },
     {
       "registration": "ES - BAH",
@@ -592,7 +592,7 @@
       "serialNumber": "1G17234",
       "owner": "Airport OÜ",
       "operator": "Eesti Lennuklubi",
-      "lastSeen": "2023-09-18T00:15:30.603Z"
+      "lastSeen": "2023-09-19T00:15:25.697Z"
     },
     {
       "registration": "ES - CAG",
@@ -600,7 +600,7 @@
       "serialNumber": "1G16028",
       "owner": "eraisik",
       "operator": "Dropzone Eesti MTÜ",
-      "lastSeen": "2023-09-18T00:15:30.603Z"
+      "lastSeen": "2023-09-19T00:15:25.697Z"
     },
     {
       "registration": "ES - CAC",
@@ -608,7 +608,7 @@
       "serialNumber": "1G20645",
       "owner": "Est Intelligence OÜ",
       "operator": "eraisik",
-      "lastSeen": "2023-09-18T00:15:30.604Z"
+      "lastSeen": "2023-09-19T00:15:25.698Z"
     },
     {
       "registration": "ES - CAN",
@@ -616,7 +616,7 @@
       "serialNumber": "1G18727",
       "owner": "Aero Agro OÜ",
       "operator": "Sõjaväe Langevarjuklubi MTÜ",
-      "lastSeen": "2023-09-18T00:15:30.605Z"
+      "lastSeen": "2023-09-19T00:15:25.699Z"
     },
     {
       "registration": "ES - ANS",
@@ -624,7 +624,7 @@
       "serialNumber": "17280581",
       "owner": "eraisik",
       "operator": "VLR OÜ",
-      "lastSeen": "2023-09-18T00:15:30.605Z"
+      "lastSeen": "2023-09-19T00:15:25.699Z"
     },
     {
       "registration": "ES - PCO",
@@ -632,15 +632,15 @@
       "serialNumber": "17281181",
       "owner": "Siseministeerium",
       "operator": "Politsei- ja Piirivalveamet",
-      "lastSeen": "2023-09-18T00:15:30.606Z"
+      "lastSeen": "2023-09-19T00:15:25.700Z"
     },
     {
       "registration": "ES - ECF",
       "type": "Cessna 172R",
       "serialNumber": "17281519",
       "owner": "Line Projekt OÜ",
-      "operator": "&nbsp;AS Pakker Avio",
-      "lastSeen": "2023-09-18T00:15:30.607Z"
+      "operator": "AS Pakker Avio",
+      "lastSeen": "2023-09-19T00:15:25.701Z"
     },
     {
       "registration": "ES - ECG",
@@ -648,7 +648,7 @@
       "serialNumber": "F172-0873",
       "owner": "AS Pakker Avio",
       "operator": "AS Pakker Avio",
-      "lastSeen": "2023-09-18T00:15:30.607Z"
+      "lastSeen": "2023-09-19T00:15:25.702Z"
     },
     {
       "registration": "ES - ECL",
@@ -656,7 +656,7 @@
       "serialNumber": "15281482",
       "owner": "AS Pakker Avio",
       "operator": "AS Pakker Avio",
-      "lastSeen": "2023-09-18T00:15:30.608Z"
+      "lastSeen": "2023-09-19T00:15:25.702Z"
     },
     {
       "registration": "ES - ECP",
@@ -664,7 +664,7 @@
       "serialNumber": "15076454",
       "owner": "Nordic Aviation Academy OÜ",
       "operator": "Nordic Aviation Academy OÜ",
-      "lastSeen": "2023-09-18T00:15:30.609Z"
+      "lastSeen": "2023-09-19T00:15:25.703Z"
     },
     {
       "registration": "ES - ECB",
@@ -672,7 +672,7 @@
       "serialNumber": "0452",
       "owner": "OÜ B.R.D.",
       "operator": "Piloodikool OÜ",
-      "lastSeen": "2023-09-18T00:15:30.610Z"
+      "lastSeen": "2023-09-19T00:15:25.704Z"
     },
     {
       "registration": "ES - ECD",
@@ -680,7 +680,7 @@
       "serialNumber": "1720254",
       "owner": "eraisik",
       "operator": "eraisik",
-      "lastSeen": "2023-09-18T00:15:30.611Z"
+      "lastSeen": "2023-09-19T00:15:25.705Z"
     },
     {
       "registration": "ES - ECN",
@@ -688,7 +688,7 @@
       "serialNumber": "1500891",
       "owner": "eraisik",
       "operator": "eraisik",
-      "lastSeen": "2023-09-18T00:15:30.612Z"
+      "lastSeen": "2023-09-19T00:15:25.706Z"
     },
     {
       "registration": "ES - ECI",
@@ -696,7 +696,7 @@
       "serialNumber": "18503201",
       "owner": "Argo Trading OÜ",
       "operator": "eraisik",
-      "lastSeen": "2023-09-18T00:15:30.613Z"
+      "lastSeen": "2023-09-19T00:15:25.707Z"
     },
     {
       "registration": "ES - ECJ",
@@ -704,7 +704,7 @@
       "serialNumber": "15072707",
       "owner": "eraisik",
       "operator": "eraisik",
-      "lastSeen": "2023-09-18T00:15:30.613Z"
+      "lastSeen": "2023-09-19T00:15:25.707Z"
     },
     {
       "registration": "ES - ECT",
@@ -712,23 +712,23 @@
       "serialNumber": "0083",
       "owner": "Baltic Avia OÜ",
       "operator": "Baltic Avia OÜ",
-      "lastSeen": "2023-09-18T00:15:30.614Z"
+      "lastSeen": "2023-09-19T00:15:25.708Z"
     },
     {
       "registration": "ES - ECY",
       "type": "Cessna 172R",
       "serialNumber": "17281530",
       "owner": "Line Projekt OÜ",
-      "operator": "&nbsp;AS Pakker Avio",
-      "lastSeen": "2023-09-18T00:15:30.615Z"
+      "operator": "AS Pakker Avio",
+      "lastSeen": "2023-09-19T00:15:25.709Z"
     },
     {
       "registration": "ES - ECX",
       "type": "Cessna 152",
       "serialNumber": "15283705",
-      "owner": "&nbsp;AS Pakker Avio",
-      "operator": "&nbsp;AS Pakker Avio",
-      "lastSeen": "2023-09-18T00:15:30.616Z"
+      "owner": "AS Pakker Avio",
+      "operator": "AS Pakker Avio",
+      "lastSeen": "2023-09-19T00:15:25.709Z"
     },
     {
       "registration": "ES - FCC",
@@ -736,7 +736,7 @@
       "serialNumber": "17262412",
       "owner": "AS Tackmer Air",
       "operator": "AS Tackmer Air",
-      "lastSeen": "2023-09-18T00:15:30.617Z"
+      "lastSeen": "2023-09-19T00:15:25.710Z"
     },
     {
       "registration": "ES - BHB",
@@ -744,7 +744,7 @@
       "serialNumber": "CD-1111",
       "owner": "B.R.D. OÜ / eraisik",
       "operator": "B.R.D OÜ",
-      "lastSeen": "2023-09-18T00:15:30.617Z"
+      "lastSeen": "2023-09-19T00:15:25.711Z"
     },
     {
       "registration": "ES - DON",
@@ -752,7 +752,7 @@
       "serialNumber": "E-2071",
       "owner": "AS LHV Pank",
       "operator": "Polegate OÜ",
-      "lastSeen": "2023-09-18T00:15:30.618Z"
+      "lastSeen": "2023-09-19T00:15:25.712Z"
     },
     {
       "registration": "ES - MAA",
@@ -760,7 +760,7 @@
       "serialNumber": "208B1279",
       "owner": "Maa-Amet",
       "operator": "Maa-Amet",
-      "lastSeen": "2023-09-18T00:15:30.619Z"
+      "lastSeen": "2023-09-19T00:15:25.713Z"
     },
     {
       "registration": "ES - MCA",
@@ -768,7 +768,7 @@
       "serialNumber": "510-0421",
       "owner": "Alarair OÜ",
       "operator": "Diamond Sky OÜ",
-      "lastSeen": "2023-09-18T00:15:30.620Z"
+      "lastSeen": "2023-09-19T00:15:25.713Z"
     },
     {
       "registration": "ES - VCW",
@@ -776,7 +776,7 @@
       "serialNumber": "17260805",
       "owner": "AS Pakker Avio",
       "operator": "AS Pakker Avio",
-      "lastSeen": "2023-09-18T00:15:30.620Z"
+      "lastSeen": "2023-09-19T00:15:25.714Z"
     },
     {
       "registration": "ES - ESP",
@@ -784,7 +784,7 @@
       "serialNumber": "28",
       "owner": "AS LHV Pank",
       "operator": "AS Pakker Avio",
-      "lastSeen": "2023-09-18T00:15:30.621Z"
+      "lastSeen": "2023-09-19T00:15:25.715Z"
     },
     {
       "registration": "ES - ESR",
@@ -792,7 +792,7 @@
       "serialNumber": "29",
       "owner": "AS LHV Pank",
       "operator": "AS Pakker Avio",
-      "lastSeen": "2023-09-18T00:15:30.622Z"
+      "lastSeen": "2023-09-19T00:15:25.716Z"
     },
     {
       "registration": "ES - EST",
@@ -800,7 +800,7 @@
       "serialNumber": "05/08",
       "owner": "Mendex OÜ",
       "operator": "Mendex OÜ",
-      "lastSeen": "2023-09-18T00:15:30.623Z"
+      "lastSeen": "2023-09-19T00:15:25.716Z"
     },
     {
       "registration": "ES - ESS",
@@ -808,7 +808,7 @@
       "serialNumber": "1277",
       "owner": "Alfons Hakans AS",
       "operator": "My Aero OÜ",
-      "lastSeen": "2023-09-18T00:15:30.624Z"
+      "lastSeen": "2023-09-19T00:15:25.717Z"
     },
     {
       "registration": "ES - FSR",
@@ -816,7 +816,7 @@
       "serialNumber": "22-3214",
       "owner": "AS LHV Pank",
       "operator": "Flug OÜ",
-      "lastSeen": "2023-09-18T00:15:30.625Z"
+      "lastSeen": "2023-09-19T00:15:25.718Z"
     },
     {
       "registration": "ES - RZM",
@@ -824,7 +824,7 @@
       "serialNumber": "NG020",
       "owner": "Sarto Holding OÜ",
       "operator": "Sarto Holding OÜ",
-      "lastSeen": "2023-09-18T00:15:30.626Z"
+      "lastSeen": "2023-09-19T00:15:25.719Z"
     },
     {
       "registration": "ES - GER",
@@ -832,7 +832,7 @@
       "serialNumber": "62.196",
       "owner": "Cabfly GmbH",
       "operator": "Diamond Sky OÜ",
-      "lastSeen": "2023-09-18T00:15:30.627Z"
+      "lastSeen": "2023-09-19T00:15:25.720Z"
     },
     {
       "registration": "ES - ILM",
@@ -840,7 +840,7 @@
       "serialNumber": "62.169",
       "owner": "Swartz Aviation B.V.",
       "operator": "Diamond Sky OÜ",
-      "lastSeen": "2023-09-18T00:15:30.627Z"
+      "lastSeen": "2023-09-19T00:15:25.721Z"
     },
     {
       "registration": "ES - KEN",
@@ -848,7 +848,7 @@
       "serialNumber": "62.043",
       "owner": "Skinest Investeeringute OÜ",
       "operator": "Diamond Sky OÜ",
-      "lastSeen": "2023-09-18T00:15:30.628Z"
+      "lastSeen": "2023-09-19T00:15:25.721Z"
     },
     {
       "registration": "ES - TWN",
@@ -856,7 +856,7 @@
       "serialNumber": "62.155",
       "owner": "Aeropeak OÜ",
       "operator": "Diamond Sky OÜ",
-      "lastSeen": "2023-09-18T00:15:30.629Z"
+      "lastSeen": "2023-09-19T00:15:25.722Z"
     },
     {
       "registration": "ES - FLG",
@@ -864,7 +864,7 @@
       "serialNumber": "4692140",
       "owner": "Flygi OÜ",
       "operator": "Flygi OÜ",
-      "lastSeen": "2023-09-18T00:15:30.630Z"
+      "lastSeen": "2023-09-19T00:15:25.722Z"
     },
     {
       "registration": "ES - EPG",
@@ -872,7 +872,7 @@
       "serialNumber": "4636539",
       "owner": "GlobalPlus OÜ",
       "operator": "GlobalPlus OÜ",
-      "lastSeen": "2023-09-18T00:15:30.630Z"
+      "lastSeen": "2023-09-19T00:15:25.723Z"
     },
     {
       "registration": "ES - EPA",
@@ -880,7 +880,7 @@
       "serialNumber": "31-7612088",
       "owner": "AS Pakker Avio",
       "operator": "AS Pakker Avio",
-      "lastSeen": "2023-09-18T00:15:30.631Z"
+      "lastSeen": "2023-09-19T00:15:25.724Z"
     },
     {
       "registration": "ES - VBN",
@@ -888,7 +888,7 @@
       "serialNumber": "2296",
       "owner": "Prop Air OÜ",
       "operator": "Diamond Sky OÜ",
-      "lastSeen": "2023-09-18T00:15:30.632Z"
+      "lastSeen": "2023-09-19T00:15:25.724Z"
     },
     {
       "registration": "ES - VPM",
@@ -896,7 +896,7 @@
       "serialNumber": "28-7505177",
       "owner": "Prop Air OÜ / eraisik",
       "operator": "Prop Air OÜ",
-      "lastSeen": "2023-09-18T00:15:30.633Z"
+      "lastSeen": "2023-09-19T00:15:25.725Z"
     },
     {
       "registration": "ES - ETI",
@@ -904,15 +904,15 @@
       "serialNumber": "41505",
       "owner": "Joosti Puhkemaja OÜ",
       "operator": "Joosti Puhkemaja OÜ",
-      "lastSeen": "2023-09-18T00:15:30.634Z"
+      "lastSeen": "2023-09-19T00:15:25.726Z"
     },
     {
       "registration": "ES - ETZ",
       "type": "ZENAIR, CH 701 SP STOL",
-      "serialNumber": "&nbsp;7-9893",
+      "serialNumber": "7-9893",
       "owner": "MTÜ Tõutsi Lennuklubi",
       "operator": "MTÜ Tõutsi Lennuklubi",
-      "lastSeen": "2023-09-18T00:15:30.634Z"
+      "lastSeen": "2023-09-19T00:15:25.726Z"
     },
     {
       "registration": "ES - FPW",
@@ -920,7 +920,7 @@
       "serialNumber": "28-35289",
       "owner": "Clear Prop OÜ",
       "operator": "Clear Prop OÜ",
-      "lastSeen": "2023-09-18T00:15:30.635Z"
+      "lastSeen": "2023-09-19T00:15:25.727Z"
     },
     {
       "registration": "ES - ACA",
@@ -928,7 +928,7 @@
       "serialNumber": "803",
       "owner": "Pro 4 Wireless OÜ",
       "operator": "Pro 4 Wireless OÜ",
-      "lastSeen": "2023-09-18T00:15:30.636Z"
+      "lastSeen": "2023-09-19T00:15:25.728Z"
     },
     {
       "registration": "ES - JPL",
@@ -936,7 +936,7 @@
       "serialNumber": "204",
       "owner": "eraisik",
       "operator": "eraisik",
-      "lastSeen": "2023-09-18T00:15:30.637Z"
+      "lastSeen": "2023-09-19T00:15:25.728Z"
     },
     {
       "registration": "ES - VLE",
@@ -944,7 +944,7 @@
       "serialNumber": "102",
       "owner": "Line Projekt OÜ",
       "operator": "Ertel.ee OÜ",
-      "lastSeen": "2023-09-18T00:15:30.638Z"
+      "lastSeen": "2023-09-19T00:15:25.729Z"
     },
     {
       "registration": "ES - RID",
@@ -952,7 +952,7 @@
       "serialNumber": "11939",
       "owner": "Ridali Lennuklubi",
       "operator": "Ridali Lennuklubi",
-      "lastSeen": "2023-09-18T00:15:30.639Z"
+      "lastSeen": "2023-09-19T00:15:25.730Z"
     },
     {
       "registration": "ES - XKL",
@@ -960,7 +960,7 @@
       "serialNumber": "puudub",
       "owner": "eraisik",
       "operator": "eraisik",
-      "lastSeen": "2023-09-18T00:15:30.639Z"
+      "lastSeen": "2023-09-19T00:15:25.731Z"
     },
     {
       "registration": "ES - XIK",
@@ -968,7 +968,7 @@
       "serialNumber": "08-04-51-713",
       "owner": "eraisik",
       "operator": "eraisik",
-      "lastSeen": "2023-09-18T00:15:30.640Z"
+      "lastSeen": "2023-09-19T00:15:25.732Z"
     },
     {
       "registration": "ES - AME",
@@ -976,7 +976,7 @@
       "serialNumber": "9275",
       "owner": "Silberauto AS",
       "operator": "Silberauto AS",
-      "lastSeen": "2023-09-18T00:15:30.641Z"
+      "lastSeen": "2023-09-19T00:15:25.732Z"
     },
     {
       "registration": "ES - JKV",
@@ -984,7 +984,7 @@
       "serialNumber": "8969",
       "owner": "Giga AS",
       "operator": "Diamond Sky OÜ",
-      "lastSeen": "2023-09-18T00:15:30.641Z"
+      "lastSeen": "2023-09-19T00:15:25.733Z"
     },
     {
       "registration": "ES - SIL",
@@ -992,7 +992,7 @@
       "serialNumber": "4583",
       "owner": "Silberauto AS",
       "operator": "Silberauto AS",
-      "lastSeen": "2023-09-18T00:15:30.642Z"
+      "lastSeen": "2023-09-19T00:15:25.734Z"
     },
     {
       "registration": "ES - ABB",
@@ -1000,7 +1000,7 @@
       "serialNumber": "65422",
       "owner": "Airborne OÜ",
       "operator": "Airborne OÜ",
-      "lastSeen": "2023-09-18T00:15:30.643Z"
+      "lastSeen": "2023-09-19T00:15:25.735Z"
     },
     {
       "registration": "ES - PWA",
@@ -1008,7 +1008,7 @@
       "serialNumber": "31069",
       "owner": "Siseministeerium",
       "operator": "Politsei- ja Piirivalveamet",
-      "lastSeen": "2023-09-18T00:15:30.643Z"
+      "lastSeen": "2023-09-19T00:15:25.736Z"
     },
     {
       "registration": "ES - PWB",
@@ -1016,7 +1016,7 @@
       "serialNumber": "31144",
       "owner": "Siseministeerium",
       "operator": "Politsei- ja Piirivalveamet",
-      "lastSeen": "2023-09-18T00:15:30.644Z"
+      "lastSeen": "2023-09-19T00:15:25.736Z"
     },
     {
       "registration": "ES - PWC",
@@ -1024,7 +1024,7 @@
       "serialNumber": "31333",
       "owner": "Siseministeerium",
       "operator": "Politsei- ja Piirivalveamet",
-      "lastSeen": "2023-09-18T00:15:30.645Z"
+      "lastSeen": "2023-09-19T00:15:25.737Z"
     },
     {
       "registration": "ES - PSF",
@@ -1032,15 +1032,15 @@
       "serialNumber": "S - 1774",
       "owner": "Eesti Lennuakadeemia",
       "operator": "Pakker Avio AS",
-      "lastSeen": "2023-09-18T00:15:30.646Z"
+      "lastSeen": "2023-09-19T00:15:25.738Z"
     },
     {
       "registration": "ES - HCS",
       "type": "Cabri G2",
       "serialNumber": "1100",
-      "owner": "Konna&nbsp;OÜ",
-      "operator": "Konna&nbsp;OÜ",
-      "lastSeen": "2023-09-18T00:15:30.646Z"
+      "owner": "Konna OÜ",
+      "operator": "Konna OÜ",
+      "lastSeen": "2023-09-19T00:15:25.739Z"
     },
     {
       "registration": "ES - ARM",
@@ -1048,7 +1048,7 @@
       "serialNumber": "2654",
       "owner": "Regalis OÜ",
       "operator": "Regalis OÜ",
-      "lastSeen": "2023-09-18T00:15:30.647Z"
+      "lastSeen": "2023-09-19T00:15:25.740Z"
     },
     {
       "registration": "ES - HRA",
@@ -1056,7 +1056,7 @@
       "serialNumber": "2024",
       "owner": "LHV Pank AS",
       "operator": "Aerocopter OÜ",
-      "lastSeen": "2023-09-18T00:15:30.647Z"
+      "lastSeen": "2023-09-19T00:15:25.741Z"
     },
     {
       "registration": "ES - HRB",
@@ -1064,7 +1064,7 @@
       "serialNumber": "14175",
       "owner": "Helicraft OÜ",
       "operator": "Helicraft OÜ",
-      "lastSeen": "2023-09-18T00:15:30.649Z"
+      "lastSeen": "2023-09-19T00:15:25.741Z"
     },
     {
       "registration": "ES - HPK",
@@ -1072,7 +1072,7 @@
       "serialNumber": "0639",
       "owner": "LHV Pank AS",
       "operator": "Pakker Avio AS",
-      "lastSeen": "2023-09-18T00:15:30.649Z"
+      "lastSeen": "2023-09-19T00:15:25.742Z"
     },
     {
       "registration": "ES - HGG",
@@ -1080,15 +1080,15 @@
       "serialNumber": "14220",
       "owner": "AS OG Elektra",
       "operator": "AS OG Elektra",
-      "lastSeen": "2023-09-18T00:15:30.650Z"
+      "lastSeen": "2023-09-19T00:15:25.743Z"
     },
     {
       "registration": "ES - HOG",
       "type": "EC130 T2",
-      "serialNumber": "8236&nbsp;",
+      "serialNumber": "8236",
       "owner": "AS OG Elektra",
       "operator": "AS OG Elektra",
-      "lastSeen": "2023-09-18T00:15:30.651Z"
+      "lastSeen": "2023-09-19T00:15:25.744Z"
     },
     {
       "registration": "ES - HEE",
@@ -1096,7 +1096,7 @@
       "serialNumber": "2005",
       "owner": "Seminari KH OÜ",
       "operator": "Seminari KH OÜ",
-      "lastSeen": "2023-09-18T00:15:30.651Z"
+      "lastSeen": "2023-09-19T00:15:25.745Z"
     },
     {
       "registration": "ES - HEL",
@@ -1104,7 +1104,7 @@
       "serialNumber": "5118",
       "owner": "BMG Consult OÜ",
       "operator": "Nordic Jet OÜ",
-      "lastSeen": "2023-09-18T00:15:30.652Z"
+      "lastSeen": "2023-09-19T00:15:25.745Z"
     },
     {
       "registration": "",
@@ -1112,7 +1112,7 @@
       "serialNumber": "",
       "owner": "",
       "operator": "",
-      "lastSeen": "2023-09-18T00:15:30.653Z"
+      "lastSeen": "2023-09-19T00:15:25.746Z"
     },
     {
       "registration": "ES - GMR",
@@ -1120,7 +1120,7 @@
       "serialNumber": "22074324",
       "owner": "eraisik",
       "operator": "eraisik",
-      "lastSeen": "2023-09-18T00:15:30.653Z"
+      "lastSeen": "2023-09-19T00:15:25.747Z"
     },
     {
       "registration": "ES - GCE",
@@ -1128,7 +1128,7 @@
       "serialNumber": "C00312",
       "owner": "Line Projekt OÜ",
       "operator": "Ertel.ee OÜ",
-      "lastSeen": "2023-09-18T00:15:30.654Z"
+      "lastSeen": "2023-09-19T00:15:25.747Z"
     },
     {
       "registration": "ES - GXA",
@@ -1136,7 +1136,7 @@
       "serialNumber": "FA11517181900002",
       "owner": "Argo Aero Estonia OÜ",
       "operator": "Argo Aero Estonia OÜ",
-      "lastSeen": "2023-09-18T00:15:30.655Z"
+      "lastSeen": "2023-09-19T00:15:25.748Z"
     },
     {
       "registration": "ES - RAZ",
@@ -1144,7 +1144,7 @@
       "serialNumber": "931523",
       "owner": "J&T Aero Limited",
       "operator": "KM Global Services OÜ",
-      "lastSeen": "2023-09-18T00:15:30.656Z"
+      "lastSeen": "2023-09-19T00:15:25.749Z"
     },
     {
       "registration": "ES - YLF",
@@ -1152,7 +1152,7 @@
       "serialNumber": "433141",
       "owner": "Apache-Lux S.a.r.l.",
       "operator": "Apache Aviation",
-      "lastSeen": "2023-09-18T00:15:30.656Z"
+      "lastSeen": "2023-09-19T00:15:25.749Z"
     },
     {
       "registration": "ES - TLH",
@@ -1160,7 +1160,7 @@
       "serialNumber": "132042",
       "owner": "J&T Aero Limited",
       "operator": "KM Global Services OÜ",
-      "lastSeen": "2023-09-18T00:15:30.657Z"
+      "lastSeen": "2023-09-19T00:15:25.750Z"
     },
     {
       "registration": "ES - YLI",
@@ -1168,7 +1168,7 @@
       "serialNumber": "433142",
       "owner": "Apache Estonia OÜ",
       "operator": "Apache Aviation",
-      "lastSeen": "2023-09-18T00:15:30.658Z"
+      "lastSeen": "2023-09-19T00:15:25.751Z"
     },
     {
       "registration": "ES - YLN",
@@ -1176,7 +1176,7 @@
       "serialNumber": "533637",
       "owner": "Apache Estonia OÜ",
       "operator": "Apache Aviation",
-      "lastSeen": "2023-09-18T00:15:30.658Z"
+      "lastSeen": "2023-09-19T00:15:25.751Z"
     },
     {
       "registration": "ES - YLP",
@@ -1184,7 +1184,7 @@
       "serialNumber": "533620",
       "owner": "Apache-Lux S.a.r.l.",
       "operator": "Apache Aviation",
-      "lastSeen": "2023-09-18T00:15:30.659Z"
+      "lastSeen": "2023-09-19T00:15:25.752Z"
     },
     {
       "registration": "ES - YLR",
@@ -1192,7 +1192,7 @@
       "serialNumber": "533628",
       "owner": "Apache-Lux S.a.r.l.",
       "operator": "Apache Aviation",
-      "lastSeen": "2023-09-18T00:15:30.660Z"
+      "lastSeen": "2023-09-19T00:15:25.753Z"
     },
     {
       "registration": "ES - YLS",
@@ -1200,7 +1200,7 @@
       "serialNumber": "533638",
       "owner": "Apache-Lux S.a.r.l.",
       "operator": "Apache Aviation",
-      "lastSeen": "2023-09-18T00:15:30.661Z"
+      "lastSeen": "2023-09-19T00:15:25.753Z"
     },
     {
       "registration": "ES - YLX",
@@ -1208,7 +1208,7 @@
       "serialNumber": "432905",
       "owner": "Apache-Lux S.a.r.l.",
       "operator": "Apache Aviation",
-      "lastSeen": "2023-09-18T00:15:30.662Z"
+      "lastSeen": "2023-09-19T00:15:25.755Z"
     },
     {
       "registration": "ES - TGV",
@@ -1216,7 +1216,7 @@
       "serialNumber": "432845",
       "owner": "Baltic Fighters OÜ",
       "operator": "Sensation Voltige",
-      "lastSeen": "2023-09-18T00:15:30.662Z"
+      "lastSeen": "2023-09-19T00:15:25.755Z"
     },
     {
       "registration": "ES - TLB",
@@ -1224,7 +1224,7 @@
       "serialNumber": "031824",
       "owner": "Baltic Fighters OÜ",
       "operator": "Societe Des Ormes",
-      "lastSeen": "2023-09-18T00:15:30.663Z"
+      "lastSeen": "2023-09-19T00:15:25.756Z"
     },
     {
       "registration": "ES - TLC",
@@ -1232,7 +1232,7 @@
       "serialNumber": "533223",
       "owner": "Apache Estonia OÜ",
       "operator": "Apache Aviation",
-      "lastSeen": "2023-09-18T00:15:30.663Z"
+      "lastSeen": "2023-09-19T00:15:25.757Z"
     },
     {
       "registration": "ES - TLF",
@@ -1240,7 +1240,7 @@
       "serialNumber": "132114",
       "owner": "Apache Estonia OÜ",
       "operator": "Apache Aviation",
-      "lastSeen": "2023-09-18T00:15:30.664Z"
+      "lastSeen": "2023-09-19T00:15:25.757Z"
     },
     {
       "registration": "ES - TLG",
@@ -1248,7 +1248,7 @@
       "serialNumber": "131849",
       "owner": "Apache Estonia OÜ",
       "operator": "Apache Aviation",
-      "lastSeen": "2023-09-18T00:15:30.665Z"
+      "lastSeen": "2023-09-19T00:15:25.758Z"
     },
     {
       "registration": "ES - TLS",
@@ -1256,7 +1256,7 @@
       "serialNumber": "031826",
       "owner": "Apache Estonia OÜ",
       "operator": "Apache Aviation",
-      "lastSeen": "2023-09-18T00:15:30.665Z"
+      "lastSeen": "2023-09-19T00:15:25.759Z"
     },
     {
       "registration": "ES - TLT",
@@ -1264,7 +1264,7 @@
       "serialNumber": "433133",
       "owner": "Apache Estonia OÜ",
       "operator": "Apache Aviation",
-      "lastSeen": "2023-09-18T00:15:30.666Z"
+      "lastSeen": "2023-09-19T00:15:25.760Z"
     },
     {
       "registration": "ES - TLU",
@@ -1272,7 +1272,7 @@
       "serialNumber": "433131",
       "owner": "Sensation Voltige",
       "operator": "Baltic Fighters OÜ",
-      "lastSeen": "2023-09-18T00:15:30.667Z"
+      "lastSeen": "2023-09-19T00:15:25.760Z"
     },
     {
       "registration": "ES - CLS",
@@ -1280,7 +1280,7 @@
       "serialNumber": "F-13-01-03",
       "owner": "laPolilla OÜ",
       "operator": "laPolilla OÜ",
-      "lastSeen": "2023-09-18T00:15:30.667Z"
+      "lastSeen": "2023-09-19T00:15:25.761Z"
     },
     {
       "registration": "ES - UCA",
@@ -1288,7 +1288,7 @@
       "serialNumber": "0107-6367",
       "owner": "Kujundaja OÜ",
       "operator": "Kujundaja OÜ",
-      "lastSeen": "2023-09-18T00:15:30.668Z"
+      "lastSeen": "2023-09-19T00:15:25.762Z"
     },
     {
       "registration": "ES - UCB",
@@ -1296,7 +1296,7 @@
       "serialNumber": "0208-6469",
       "owner": "Viljandi lennuklubi",
       "operator": "Viljandi lennuklubi",
-      "lastSeen": "2023-09-18T00:15:30.669Z"
+      "lastSeen": "2023-09-19T00:15:25.763Z"
     },
     {
       "registration": "ES - UBC",
@@ -1304,7 +1304,7 @@
       "serialNumber": "2002-1506",
       "owner": "Tiivuline OÜ",
       "operator": "Tiivuline OÜ",
-      "lastSeen": "2023-09-18T00:15:30.670Z"
+      "lastSeen": "2023-09-19T00:15:25.764Z"
     },
     {
       "registration": "ES - UBD",
@@ -1312,7 +1312,7 @@
       "serialNumber": "2007-2922",
       "owner": "Aniktima OÜ",
       "operator": "eraisik",
-      "lastSeen": "2023-09-18T00:15:30.671Z"
+      "lastSeen": "2023-09-19T00:15:25.764Z"
     },
     {
       "registration": "ES - UBK",
@@ -1320,7 +1320,7 @@
       "serialNumber": "PFA274-13385",
       "owner": "Põhjala Pellet OÜ",
       "operator": "Põhjala Pellet OÜ",
-      "lastSeen": "2023-09-18T00:15:30.672Z"
+      "lastSeen": "2023-09-19T00:15:25.765Z"
     },
     {
       "registration": "ES - UBS",
@@ -1328,7 +1328,7 @@
       "serialNumber": "2010-3716",
       "owner": "eraisik",
       "operator": "eraisik",
-      "lastSeen": "2023-09-18T00:15:30.674Z"
+      "lastSeen": "2023-09-19T00:15:25.766Z"
     },
     {
       "registration": "ES - UDG",
@@ -1336,7 +1336,7 @@
       "serialNumber": "PAK-912-131",
       "owner": "eraisik",
       "operator": "eraisik",
-      "lastSeen": "2023-09-18T00:15:30.675Z"
+      "lastSeen": "2023-09-19T00:15:25.767Z"
     },
     {
       "registration": "ES - UFM",
@@ -1344,7 +1344,7 @@
       "serialNumber": "39/13",
       "owner": "eraisik",
       "operator": "eraisik",
-      "lastSeen": "2023-09-18T00:15:30.675Z"
+      "lastSeen": "2023-09-19T00:15:25.768Z"
     },
     {
       "registration": "ES - UIG",
@@ -1352,7 +1352,7 @@
       "serialNumber": "008",
       "owner": "eraisik",
       "operator": "Global4service OÜ",
-      "lastSeen": "2023-09-18T00:15:30.676Z"
+      "lastSeen": "2023-09-19T00:15:25.768Z"
     },
     {
       "registration": "ES - ULM",
@@ -1360,7 +1360,7 @@
       "serialNumber": "114",
       "owner": "Eesti Lennundusmuuseum",
       "operator": "Eesti Lennundusmuuseum",
-      "lastSeen": "2023-09-18T00:15:30.677Z"
+      "lastSeen": "2023-09-19T00:15:25.769Z"
     },
     {
       "registration": "ES - UNU",
@@ -1368,7 +1368,7 @@
       "serialNumber": "108",
       "owner": "eraisik",
       "operator": "eraisik",
-      "lastSeen": "2023-09-18T00:15:30.678Z"
+      "lastSeen": "2023-09-19T00:15:25.770Z"
     },
     {
       "registration": "ES - UPA",
@@ -1376,7 +1376,7 @@
       "serialNumber": "02",
       "owner": "eraisik",
       "operator": "eraisik",
-      "lastSeen": "2023-09-18T00:15:30.678Z"
+      "lastSeen": "2023-09-19T00:15:25.771Z"
     },
     {
       "registration": "ES - URV",
@@ -1384,7 +1384,7 @@
       "serialNumber": "CH2-0109-LSS LW-0155",
       "owner": "eraisik",
       "operator": "eraisik",
-      "lastSeen": "2023-09-18T00:15:30.679Z"
+      "lastSeen": "2023-09-19T00:15:25.772Z"
     },
     {
       "registration": "ES - HAD",
@@ -1392,7 +1392,7 @@
       "serialNumber": "2152",
       "owner": "Airventures OÜ",
       "operator": "Airventures OÜ",
-      "lastSeen": "2023-09-18T00:15:30.680Z"
+      "lastSeen": "2023-09-19T00:15:25.772Z"
     },
     {
       "registration": "ES - HAC",
@@ -1400,7 +1400,7 @@
       "serialNumber": "2251",
       "owner": "Airventures OÜ",
       "operator": "Airventures OÜ",
-      "lastSeen": "2023-09-18T00:15:30.680Z"
+      "lastSeen": "2023-09-19T00:15:25.773Z"
     },
     {
       "registration": "ES - HAE",
@@ -1408,7 +1408,7 @@
       "serialNumber": "1943",
       "owner": "Airventures OÜ",
       "operator": "Airventures OÜ",
-      "lastSeen": "2023-09-18T00:15:30.681Z"
+      "lastSeen": "2023-09-19T00:15:25.774Z"
     },
     {
       "registration": "ES - HAF",
@@ -1416,7 +1416,7 @@
       "serialNumber": "2633",
       "owner": "Airventures OÜ",
       "operator": "Airventures OÜ",
-      "lastSeen": "2023-09-18T00:15:30.682Z"
+      "lastSeen": "2023-09-19T00:15:25.775Z"
     },
     {
       "registration": "ES - HAH",
@@ -1424,7 +1424,7 @@
       "serialNumber": "0260292",
       "owner": "eraisik",
       "operator": "eraisik",
-      "lastSeen": "2023-09-18T00:15:30.682Z"
+      "lastSeen": "2023-09-19T00:15:25.775Z"
     },
     {
       "registration": "ES - HAI",
@@ -1432,7 +1432,7 @@
       "serialNumber": "10505",
       "owner": "Aeroklubi Airventures",
       "operator": "Aeroklubi Airventures OÜ",
-      "lastSeen": "2023-09-18T00:15:30.683Z"
+      "lastSeen": "2023-09-19T00:15:25.776Z"
     },
     {
       "registration": "ES - HAK",
@@ -1440,7 +1440,7 @@
       "serialNumber": "1369",
       "owner": "Lennuklubi Keelutsoon",
       "operator": "Aeroklubi Airventures OÜ",
-      "lastSeen": "2023-09-18T00:15:30.684Z"
+      "lastSeen": "2023-09-19T00:15:25.777Z"
     },
     {
       "registration": "ES - HAL",
@@ -1448,7 +1448,7 @@
       "serialNumber": "HF076",
       "owner": "Justkull OÜ",
       "operator": "Lennulaev OÜ",
-      "lastSeen": "2023-09-18T00:15:30.684Z"
+      "lastSeen": "2023-09-19T00:15:25.777Z"
     },
     {
       "registration": "ES - HAM",
@@ -1456,7 +1456,7 @@
       "serialNumber": "10691",
       "owner": "Selestre OÜ",
       "operator": "Aeroklubi Airventures OÜ",
-      "lastSeen": "2023-09-18T00:15:30.685Z"
+      "lastSeen": "2023-09-19T00:15:25.778Z"
     },
     {
       "registration": "ES - HAS",
@@ -1464,7 +1464,7 @@
       "serialNumber": "270999",
       "owner": "eraisik",
       "operator": "eraisik",
-      "lastSeen": "2023-09-18T00:15:30.686Z"
+      "lastSeen": "2023-09-19T00:15:25.779Z"
     },
     {
       "registration": "ES - HAT",
@@ -1472,7 +1472,7 @@
       "serialNumber": "4259",
       "owner": "Aeroklubi Airventures",
       "operator": "Aeroklubi Airventures OÜ",
-      "lastSeen": "2023-09-18T00:15:30.687Z"
+      "lastSeen": "2023-09-19T00:15:25.779Z"
     },
     {
       "registration": "ES - KAS",
@@ -1480,7 +1480,7 @@
       "serialNumber": "R - 1205",
       "owner": "eraisik",
       "operator": "eraisik",
-      "lastSeen": "2023-09-18T00:15:30.687Z"
+      "lastSeen": "2023-09-19T00:15:25.780Z"
     },
     {
       "registration": "ES - KAK",
@@ -1488,7 +1488,7 @@
       "serialNumber": "puudub",
       "owner": "eraisik",
       "operator": "eraisik",
-      "lastSeen": "2023-09-18T00:15:30.688Z"
+      "lastSeen": "2023-09-19T00:15:25.781Z"
     },
     {
       "registration": "ES - KAL",
@@ -1496,7 +1496,7 @@
       "serialNumber": "XT912-0194",
       "owner": "eraisik",
       "operator": "eraisik",
-      "lastSeen": "2023-09-18T00:15:30.689Z"
+      "lastSeen": "2023-09-19T00:15:25.781Z"
     },
     {
       "registration": "ES - KAT",
@@ -1504,7 +1504,7 @@
       "serialNumber": "puudub",
       "owner": "eraisik",
       "operator": "eraisik",
-      "lastSeen": "2023-09-18T00:15:30.689Z"
+      "lastSeen": "2023-09-19T00:15:25.782Z"
     },
     {
       "registration": "ES - KAU",
@@ -1512,7 +1512,7 @@
       "serialNumber": "A04080-4079",
       "owner": "eraisik",
       "operator": "eraisik",
-      "lastSeen": "2023-09-18T00:15:30.690Z"
+      "lastSeen": "2023-09-19T00:15:25.783Z"
     },
     {
       "registration": "ES - KIA",
@@ -1520,7 +1520,7 @@
       "serialNumber": "puudub",
       "owner": "eraisik",
       "operator": "eraisik",
-      "lastSeen": "2023-09-18T00:15:30.691Z"
+      "lastSeen": "2023-09-19T00:15:25.783Z"
     },
     {
       "registration": "ES - KIP",
@@ -1528,7 +1528,7 @@
       "serialNumber": "puudub",
       "owner": "eraisik",
       "operator": "eraisik",
-      "lastSeen": "2023-09-18T00:15:30.691Z"
+      "lastSeen": "2023-09-19T00:15:25.784Z"
     },
     {
       "registration": "ES - KMP",
@@ -1536,15 +1536,15 @@
       "serialNumber": "puudub",
       "owner": "eraisik",
       "operator": "eraisik",
-      "lastSeen": "2023-09-18T00:15:30.692Z"
+      "lastSeen": "2023-09-19T00:15:25.785Z"
     },
     {
       "registration": "ES - KMS",
-      "type": "iseehitatud motodelta/\n                   selfmade motoglider",
+      "type": "iseehitatud motodelta/\n\t\t\tselfmade motoglider",
       "serialNumber": "puudub",
       "owner": "eraisik",
       "operator": "eraisik",
-      "lastSeen": "2023-09-18T00:15:30.692Z"
+      "lastSeen": "2023-09-19T00:15:25.785Z"
     },
     {
       "registration": "ES - KNB",
@@ -1552,7 +1552,7 @@
       "serialNumber": "043",
       "owner": "eraisik",
       "operator": "eraisik",
-      "lastSeen": "2023-09-18T00:15:30.693Z"
+      "lastSeen": "2023-09-19T00:15:25.786Z"
     },
     {
       "registration": "ES - KVP",
@@ -1560,7 +1560,7 @@
       "serialNumber": "puudub",
       "owner": "eraisik",
       "operator": "eraisik",
-      "lastSeen": "2023-09-18T00:15:30.694Z"
+      "lastSeen": "2023-09-19T00:15:25.787Z"
     },
     {
       "registration": "ES - KEK",
@@ -1568,7 +1568,7 @@
       "serialNumber": "085",
       "owner": "eraisik",
       "operator": "eraisik",
-      "lastSeen": "2023-09-18T00:15:30.694Z"
+      "lastSeen": "2023-09-19T00:15:25.787Z"
     },
     {
       "registration": "ES - KLN",
@@ -1576,7 +1576,7 @@
       "serialNumber": "puudub",
       "owner": "eraisik",
       "operator": "eraisik",
-      "lastSeen": "2023-09-18T00:15:30.695Z"
+      "lastSeen": "2023-09-19T00:15:25.788Z"
     },
     {
       "registration": "ES - KSH",
@@ -1584,7 +1584,7 @@
       "serialNumber": "8520",
       "owner": "eraisik",
       "operator": "eraisik",
-      "lastSeen": "2023-09-18T00:15:30.696Z"
+      "lastSeen": "2023-09-19T00:15:25.789Z"
     },
     {
       "registration": "ES - KUS",
@@ -1592,7 +1592,7 @@
       "serialNumber": "XT912-0196",
       "owner": "eraisik",
       "operator": "eraisik",
-      "lastSeen": "2023-09-18T00:15:30.697Z"
+      "lastSeen": "2023-09-19T00:15:25.789Z"
     },
     {
       "registration": "ES - 1000",
@@ -1600,7 +1600,7 @@
       "serialNumber": "653",
       "owner": "Ridali lennuklubi",
       "operator": "Ridali lennuklubi",
-      "lastSeen": "2023-09-18T00:15:30.697Z"
+      "lastSeen": "2023-09-19T00:15:25.790Z"
     },
     {
       "registration": "ES - 1001",
@@ -1608,7 +1608,7 @@
       "serialNumber": "6165",
       "owner": "Ridali lennuklubi",
       "operator": "Ridali lennuklubi",
-      "lastSeen": "2023-09-18T00:15:30.698Z"
+      "lastSeen": "2023-09-19T00:15:25.790Z"
     },
     {
       "registration": "ES - 1002",
@@ -1616,7 +1616,7 @@
       "serialNumber": "6156",
       "owner": "Ridali lennuklubi",
       "operator": "Ridali lennuklubi",
-      "lastSeen": "2023-09-18T00:15:30.699Z"
+      "lastSeen": "2023-09-19T00:15:25.791Z"
     },
     {
       "registration": "ES - 1004",
@@ -1624,7 +1624,7 @@
       "serialNumber": "B - 1454",
       "owner": "Ridali lennuklubi",
       "operator": "Ridali lennuklubi",
-      "lastSeen": "2023-09-18T00:15:30.699Z"
+      "lastSeen": "2023-09-19T00:15:25.792Z"
     },
     {
       "registration": "ES - 1005",
@@ -1632,7 +1632,7 @@
       "serialNumber": "B - 1225",
       "owner": "Ridali lennuklubi",
       "operator": "Ridali lennuklubi",
-      "lastSeen": "2023-09-18T00:15:30.700Z"
+      "lastSeen": "2023-09-19T00:15:25.793Z"
     },
     {
       "registration": "ES - 1006",
@@ -1640,7 +1640,7 @@
       "serialNumber": "B - 1164",
       "owner": "Ridali lennuklubi",
       "operator": "Ridali lennuklubi",
-      "lastSeen": "2023-09-18T00:15:30.701Z"
+      "lastSeen": "2023-09-19T00:15:25.793Z"
     },
     {
       "registration": "ES - 1009",
@@ -1648,7 +1648,7 @@
       "serialNumber": "B - 1702",
       "owner": "Ridali lennuklubi",
       "operator": "Ridali lennuklubi",
-      "lastSeen": "2023-09-18T00:15:30.701Z"
+      "lastSeen": "2023-09-19T00:15:25.794Z"
     },
     {
       "registration": "ES - 1010",
@@ -1656,7 +1656,7 @@
       "serialNumber": "15092",
       "owner": "Ridali lennuklubi",
       "operator": "Ridali lennuklubi",
-      "lastSeen": "2023-09-18T00:15:30.702Z"
+      "lastSeen": "2023-09-19T00:15:25.795Z"
     },
     {
       "registration": "ES - 1019",
@@ -1664,7 +1664,7 @@
       "serialNumber": "172307",
       "owner": "eraisik",
       "operator": "eraisik",
-      "lastSeen": "2023-09-18T00:15:30.703Z"
+      "lastSeen": "2023-09-19T00:15:25.795Z"
     },
     {
       "registration": "ES - 2001",
@@ -1672,7 +1672,7 @@
       "serialNumber": "026437",
       "owner": "Viljandi lennuklubi",
       "operator": "Viljandi lennuklubi",
-      "lastSeen": "2023-09-18T00:15:30.704Z"
+      "lastSeen": "2023-09-19T00:15:25.796Z"
     },
     {
       "registration": "ES - 2010",
@@ -1680,7 +1680,7 @@
       "serialNumber": "026951",
       "owner": "Tallinna Aeroklubi",
       "operator": "Tallinna Aeroklubi",
-      "lastSeen": "2023-09-18T00:15:30.705Z"
+      "lastSeen": "2023-09-19T00:15:25.797Z"
     },
     {
       "registration": "ES - 2009",
@@ -1688,7 +1688,7 @@
       "serialNumber": "B-1378",
       "owner": "Ridali lennuklubi",
       "operator": "Ridali lennuklubi",
-      "lastSeen": "2023-09-18T00:15:30.705Z"
+      "lastSeen": "2023-09-19T00:15:25.798Z"
     },
     {
       "registration": "ES - 2030",
@@ -1696,7 +1696,7 @@
       "serialNumber": "201B105",
       "owner": "Tallinna Aeroklubi",
       "operator": "Tallinna Aeroklubi",
-      "lastSeen": "2023-09-18T00:15:30.706Z"
+      "lastSeen": "2023-09-19T00:15:25.798Z"
     },
     {
       "registration": "ES - 1602",
@@ -1704,7 +1704,7 @@
       "serialNumber": "S - 05.22",
       "owner": "Ridali lennuklubi",
       "operator": "Ridali lennuklubi",
-      "lastSeen": "2023-09-18T00:15:30.706Z"
+      "lastSeen": "2023-09-19T00:15:25.799Z"
     },
     {
       "registration": "ES - 3008",
@@ -1712,7 +1712,7 @@
       "serialNumber": "08",
       "owner": "Tallinn Aeroklubi",
       "operator": "Tallinn Aeroklubi",
-      "lastSeen": "2023-09-18T00:15:30.708Z"
+      "lastSeen": "2023-09-19T00:15:25.800Z"
     },
     {
       "registration": "ES - 5075",
@@ -1720,7 +1720,7 @@
       "serialNumber": "4481",
       "owner": "eraisik",
       "operator": "Ridali lennuklubi",
-      "lastSeen": "2023-09-18T00:15:30.708Z"
+      "lastSeen": "2023-09-19T00:15:25.801Z"
     },
     {
       "registration": "ES - 5423",
@@ -1728,7 +1728,7 @@
       "serialNumber": "950318",
       "owner": "Ridali lennuklubi",
       "operator": "Ridali lennuklubi",
-      "lastSeen": "2023-09-18T00:15:30.709Z"
+      "lastSeen": "2023-09-19T00:15:25.801Z"
     },
     {
       "registration": "ES - 5427",
@@ -1736,7 +1736,7 @@
       "serialNumber": "3627",
       "owner": "Hektos Puit OÜ",
       "operator": "Ridali lennuklubi",
-      "lastSeen": "2023-09-18T00:15:30.709Z"
+      "lastSeen": "2023-09-19T00:15:25.802Z"
     },
     {
       "registration": "ES - 5540",
@@ -1744,7 +1744,7 @@
       "serialNumber": "2142",
       "owner": "eraisik",
       "operator": "eraisik",
-      "lastSeen": "2023-09-18T00:15:30.710Z"
+      "lastSeen": "2023-09-19T00:15:25.803Z"
     },
     {
       "registration": "ES - 5558",
@@ -1752,7 +1752,7 @@
       "serialNumber": "20855",
       "owner": "eraisik",
       "operator": "Ridali lennuklubi",
-      "lastSeen": "2023-09-18T00:15:30.711Z"
+      "lastSeen": "2023-09-19T00:15:25.803Z"
     },
     {
       "registration": "ES - 5832",
@@ -1760,7 +1760,7 @@
       "serialNumber": "B-2027",
       "owner": "Ridali lennuklubi",
       "operator": "Ridali lennuklubi",
-      "lastSeen": "2023-09-18T00:15:30.711Z"
+      "lastSeen": "2023-09-19T00:15:25.804Z"
     },
     {
       "registration": "ES - 7110",
@@ -1768,7 +1768,7 @@
       "serialNumber": "870207",
       "owner": "Viljandi Lennuklubi MTÜ",
       "operator": "Viljandi Lennuklubi MTÜ",
-      "lastSeen": "2023-09-18T00:15:30.712Z"
+      "lastSeen": "2023-09-19T00:15:25.804Z"
     },
     {
       "registration": "ES - 8886",
@@ -1776,7 +1776,7 @@
       "serialNumber": "7114",
       "owner": "eraisik",
       "operator": "eraisik",
-      "lastSeen": "2023-09-18T00:15:30.713Z"
+      "lastSeen": "2023-09-19T00:15:25.805Z"
     }
   ]
 }

@@ -18,7 +18,7 @@ jobs:
           deno-version: vx.x.x
 
       - name: Check out repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Process
         run: deno run --config ./tsconfig.json --allow-write --allow-net ./fetch.ts

@@ -12,13 +12,21 @@ jobs:
   scheduled:
     runs-on: ubuntu-latest
     steps:
-      - name: Setup deno
-        uses: denoland/setup-deno@main
-        with:
-          deno-version: vx.x.x
-
       - name: Check out repo
         uses: actions/checkout@v4
+        
+      - name: Setup deno
+        uses: denoland/setup-deno@v2.0.0
+
+      # we use setup-node because it will automatically cache our NPM modules
+      - name: Cache NPM modules
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+          
+      - name: Deno Install
+        run: deno install
 
       - name: Fetch
         run: deno run --config ./deno.json --allow-write=./data.html --allow-net=transpordiamet.ee ./fetch.ts

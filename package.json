@@ -1,0 +1,17 @@
+{
+  "name": "estonian-aircraft",
+  "version": "1.0.0",
+  "description": "Flat data of all the aircraft registered in Estonia",
+  "main": "fetch.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@tsconfig/deno": "^1.0.11",
+    "@xmldom/xmldom": "^0.9.5",
+    "cheerio": "^1.0.0",
+    "xpath": "^0.0.34"
+  }
+}

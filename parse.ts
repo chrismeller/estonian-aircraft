@@ -1,6 +1,8 @@
-import { DOMParser } from 'https://cdn.skypack.dev/@xmldom/xmldom@0.8.9?dts';
-import * as xpath from 'https://cdn.skypack.dev/xpath@0.0.33?dts';
-import { parse } from 'https://cdn.skypack.dev/date-fns@2.30.0?dts';
+import xpath from 'npm:xpath';
+import { DOMParser } from 'npm:@xmldom/xmldom';
+import * as cheerio from 'npm:cheerio';
+import parse from "https://deno.land/x/date_fns@v2.22.1/parse/index.js";
+import { et } from "https://deno.land/x/date_fns@v2.22.1/locale/index.js";
 
 interface IResult {
     lastUpdated: Date;
@@ -18,13 +20,21 @@ interface IAircraft {
 }
 
 const html = await Deno.readTextFile('./data.html');
-const doc = new DOMParser().parseFromString(html);
 
-const table = xpath.select('.//table[ contains( ., "updated" ) ]', doc)[0] as Node;
+// we first parse with cheerio in XML mode (which uses htmlparser2 under the hood)
+// so that we forgive some of the errors in the html
+const cheerioDoc = cheerio.load(html);
+const cheerioHtml = cheerioDoc.html({ xml: true});
+
+// now we parse the html with the xmldom parser so we can hand it to xpath
+const doc = new DOMParser().parseFromString(cheerioHtml, 'text/xml');
+
+// the Document from DOMParser is actually a Node, so we can use it with xpath
+const table = xpath.select1('.//table[ contains( ., "updated" ) ]', doc as unknown as Node) as Node;
 
 // get the last updated date
-const updatedDateCell = xpath.select('.//td[ contains( ., "updated" ) ]', table)[0] as Node;
-const updatedDateContent = updatedDateCell.toString();
+const updatedDateCell = xpath.select1('.//td[ contains( ., "updated" ) ]', table) as Node;
+const updatedDateContent = updatedDateCell.textContent?.trim() ?? '';
 
 // some crazy parsing to get just the date
 const updatedDate = updatedDateContent.split(':').map((c) => c.trim()).map((c) => c.split(/\s/));
@@ -49,11 +59,11 @@ for (const row of rows) {
         continue;
     }
 
-    const registration = (xpath.select('.//td[2]', row)[0] as Node).textContent!.trim();
-    const type = (xpath.select('.//td[5]', row)[0] as Node).textContent!.trim();
-    const serialNumber = (xpath.select('.//td[6]', row)[0] as Node).textContent!.trim();
-    const owner = (xpath.select('.//td[7]', row)[0] as Node).textContent!.trim();
-    const operator = (xpath.select('.//td[8]', row)[0] as Node).textContent!.trim();
+    const registration = (xpath.select1('.//td[2]', row) as Node).textContent!.trim();
+    const type = (xpath.select1('.//td[5]', row) as Node).textContent!.trim();
+    const serialNumber = (xpath.select1('.//td[6]', row) as Node).textContent!.trim();
+    const owner = (xpath.select1('.//td[7]', row) as Node).textContent!.trim();
+    const operator = (xpath.select1('.//td[8]', row) as Node).textContent!.trim();
 
     aircraft.push({
         registration,
@@ -67,7 +77,7 @@ for (const row of rows) {
 
 console.log('number of aircraft', aircraft.length);
 
-const updatedAt = parse(updatedDate[1][0], 'dd.MM.yyyy', new Date());
+const updatedAt = parse(updatedDate[1][0], 'dd.MM.yyyy', new Date(), { locale: et });
 
 const result: IResult = {
     lastUpdated: updatedAt,

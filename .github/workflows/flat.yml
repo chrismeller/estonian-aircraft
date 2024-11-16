@@ -21,10 +21,10 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Fetch
-        run: deno run --config ./tsconfig.json --allow-write --allow-net ./fetch.ts
+        run: deno run --config ./deno.json --allow-write=./data.html --allow-net=transpordiamet.ee ./fetch.ts
 
       - name: Parse
-        run: deno run --config ./tsconfig.json --allow-read --allow-write --allow-import=cdn.skypack.dev ./parse.ts
+        run: deno run --config ./deno.json --allow-read=./data.html --allow-write=./data.json --allow-env ./parse.ts
 
       - name: Commit & Push
         uses: actions-js/push@master

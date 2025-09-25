@@ -20,7 +20,7 @@ jobs:
 
       # we use setup-node because it will automatically cache our NPM modules
       - name: Cache NPM modules
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
           node-version: 20
           cache: 'npm'
